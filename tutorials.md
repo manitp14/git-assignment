@@ -1,3 +1,1 @@
-I am Kamalvir Kaur.I studied all main git tutorials including branching,merging, rebasing and many more. 
-It was easy to solve all the questions as instructions were clear and concise from basic to advance levels.
- I learnt all the basics of git in an easy manner but if we want to check some step it will start again from beginning.
+Hello, This is manit prajapati and i have read the article regarding the git and This article provides a guide to setting up Git for version control on a local machine, including instructions for downloading, installing, and configuring Git, as well as authenticating with GitHub using either HTTPS or SSH. It also offers information on alternative methods of accessing GitHub, such as using GitHub CLI or GitHub Desktop. Finally, the article provides some next steps for using GitHub, such as creating a repository, forking a repository, and interacting with other users on the platform.
